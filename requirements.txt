@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+pandas
+jupyter
+pythia8mc==8.318.3

@@ -1,0 +1,3 @@
+T=1e+11 m=1000 Wmin=5 sigma_gen=87.158 ub  nok=100000/100000  <Npi>=17.8  y[min,med,max]=(1.3e-10,5.2e-08,0.00096) Q2max=1  time=61.9s
+T=1e+11 m=10000 Wmin=5 sigma_gen=59.374 ub  nok=100000/100000  <Npi>=13.8  y[min,med,max]=(1.3e-10,1.7e-08,9.9e-05) Q2max=1  time=40.2s
+T=1e+11 m=100000 Wmin=5 sigma_gen=38.354 ub  nok=100000/100000  <Npi>=10.7  y[min,med,max]=(1.4e-10,6.2e-09,9.5e-06) Q2max=1  time=30.0s

@@ -1,0 +1,16 @@
+# private material (draft PDF, email thread, Daniele's zip): never committed
+private/
+
+# regenerated Pythia events (hundreds of MB; notes/pythia_replication_note.md Sect. 8 rebuilds them)
+pythia_dis/MonopoleDIP/events/
+pythia_dis/MonopoleDIP/php/
+*.npz
+
+# environment and junk
+pyenv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+__MACOSX/
+testing.ipynb

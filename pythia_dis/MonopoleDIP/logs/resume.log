@@ -1,0 +1,5 @@
+/home/claude/work/comb/combine.py:9: RuntimeWarning: invalid value encountered in divide
+  core=(1-y)*(1-Q2min/Q2)+(y*y/2 if spin==0.5 else 0.0)
+done s0.5_m10000_T14
+done s0.5_m100000_T11
+done s0.5_m100000_T14

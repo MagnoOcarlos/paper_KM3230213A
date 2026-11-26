@@ -1,0 +1,43 @@
+T=1e+11 lo=1 sigma_gen=74.41 ub  ymax=0.95  time=13s
+done ('dis', 100000000000.0, 0) in 14s (elapsed 14s)
+T=1e+11 lo=4 sigma_gen=20.44 ub  ymax=0.98  time=16s
+done ('dis', 100000000000.0, 1) in 17s (elapsed 17s)
+T=1e+11 lo=100 sigma_gen=1.051 ub  ymax=0.992  time=28s
+done ('dis', 100000000000.0, 2) in 29s (elapsed 29s)
+T=1e+14 lo=1 sigma_gen=137 ub  ymax=0.992  time=29s
+done ('dis', 100000000000000.0, 0) in 29s (elapsed 29s)
+T=1e+11 lo=10000 sigma_gen=0.007284 ub  ymax=0.999  time=45s
+done ('dis', 100000000000.0, 3) in 46s (elapsed 46s)
+T=1e+14 lo=4 sigma_gen=38.83 ub  ymax=0.976  time=50s
+done ('dis', 100000000000000.0, 1) in 50s (elapsed 51s)
+T=1e+14 lo=100 sigma_gen=2.422 ub  ymax=0.992  time=71s
+done ('dis', 100000000000000.0, 2) in 72s (elapsed 72s)
+T=1e+11 lo=1e+06 sigma_gen=1.792e-05 ub  ymax=0.999  time=75s
+done ('dis', 100000000000.0, 4) in 76s (elapsed 76s)
+T=1e+14 lo=10000 sigma_gen=0.03759 ub  ymax=0.997  time=85s
+done ('dis', 100000000000000.0, 3) in 85s (elapsed 99s)
+T=1e+11 lo=1e+08 sigma_gen=1.924e-08 ub  ymax=1  time=138s
+done ('dis', 100000000000.0, 5) in 139s (elapsed 139s)
+T=1e+14 lo=1e+06 sigma_gen=0.0003109 ub  ymax=1  time=130s
+done ('dis', 100000000000000.0, 4) in 131s (elapsed 147s)
+T=1e+11 m=10000 Wmin=5 sigma_gen=59.374 ub  nok=100000/100000  <Npi>=13.8  y[min,med,max]=(1.3e-10,1.7e-08,9.9e-05) Q2max=1  time=80.0s
+done ('php', 100000000000.0, 10000.0) in 106s (elapsed 205s)
+T=1e+11 m=1000 Wmin=5 sigma_gen=87.158 ub  nok=100000/100000  <Npi>=17.8  y[min,med,max]=(1.3e-10,5.2e-08,0.00096) Q2max=1  time=118.4s
+done ('php', 100000000000.0, 1000.0) in 143s (elapsed 215s)
+T=1e+11 m=100000 Wmin=5 sigma_gen=38.354 ub  nok=100000/100000  <Npi>=10.7  y[min,med,max]=(1.4e-10,6.2e-09,9.5e-06) Q2max=1  time=55.3s
+done ('php', 100000000000.0, 100000.0) in 80s (elapsed 228s)
+T=1e+14 lo=1e+08 sigma_gen=7.62e-07 ub  ymax=0.999  time=216s
+done ('dis', 100000000000000.0, 5) in 216s (elapsed 245s)
+T=1e+11 lo=1e+10 sigma_gen=5.681e-12 ub  ymax=1  time=254s
+done ('dis', 100000000000.0, 6) in 255s (elapsed 255s)
+T=1e+14 m=100000 Wmin=5 sigma_gen=115.45 ub  nok=94809/100000  <Npi>=24.4  y[min,med,max]=(1.3e-13,2.4e-10,9.9e-06) Q2max=1  time=163.0s
+done ('php', 100000000000000.0, 100000.0) in 196s (elapsed 334s)
+T=1e+14 m=10000 Wmin=5 sigma_gen=160.08 ub  nok=95497/100000  <Npi>=31.6  y[min,med,max]=(1.3e-13,8.3e-10,9.8e-05) Q2max=1  time=258.1s
+done ('php', 100000000000000.0, 10000.0) in 293s (elapsed 369s)
+T=1e+14 lo=1e+10 sigma_gen=7.913e-10 ub  ymax=1  time=368s
+done ('dis', 100000000000000.0, 6) in 368s (elapsed 398s)
+T=1e+14 m=1000 Wmin=5 sigma_gen=213.99 ub  nok=96291/100000  <Npi>=42.1  y[min,med,max]=(1.3e-13,3.3e-09,0.00096) Q2max=1  time=393.4s
+done ('php', 100000000000000.0, 1000.0) in 423s (elapsed 474s)
+T=1e+14 lo=1e+12 sigma_gen=4.703e-13 ub  ymax=1  time=613s
+done ('dis', 100000000000000.0, 7) in 614s (elapsed 660s)
+ALL DONE
